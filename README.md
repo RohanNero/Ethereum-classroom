@@ -1,66 +1,24 @@
-## Foundry
+# Foundry Classroom
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+This repo consists of a handful of simple smart contracts that each showcase a different Solidity/Ethereum concept
 
-Foundry consists of:
+## Content overview
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+In order corresponding to the src directory:
 
-## Documentation
+1. `Ownable.sol` showcases EIP 173
+1. `Signature.sol` showases EIP 191 and EIP 712
+1. `Encoding.sol` showcases abi encoding
+1. `Decoding.sol` showcases abi decoding
+1. `Token.sol` showcases ERC-20
+1. `FatDragon.sol` showcase EIP 170 and 607
+1. `NonFungibleToken.sol` showcases ERC-721
+1. `Proxy.sol` showcases EIP 1167
+1. `ProxyStorage.sol` showcases EIP 1967
+1. `NewContractPrefix` showcases EIP 3541
+1. `Vault.sol` showcases ERC-4626
+1. `SelfDestruct` showcases EIP 6049
 
-https://book.getfoundry.sh/
+## Signature.sol
 
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+This contract showcases EIP 712 and lets you play with
