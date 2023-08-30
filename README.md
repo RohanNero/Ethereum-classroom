@@ -6,21 +6,44 @@ This repo consists of a handful of simple smart contracts that each showcase a d
 
 In order corresponding to the src directory:
 
+1. `Token.sol` showcases ERC-20
 1. `Ownable.sol` showcases EIP 173
 1. `Signature.sol` showases EIP 191 and EIP 712
 1. `Encoding.sol` showcases abi encoding
 1. `Decoding.sol` showcases abi decoding
-1. `Token.sol` showcases ERC-20
 1. `FatDragon.sol` showcase EIP 170 and 607
 1. `NonFungibleToken.sol` showcases ERC-721
 1. `Proxy.sol` showcases EIP 1167
 1. `ProxyStorage.sol` showcases EIP 1967
 1. `NewContractPrefix` showcases EIP 3541
+1. `Flash.sol` showcases flashloans EIP 3156
 1. `Vault.sol` showcases ERC-4626
 1. `SelfDestruct` showcases EIP 6049
-1. `Flash.sol` showcases flashloans EIP 3156
+1. `Merkle.sol` showcases a Merkle proof
 
 [List of EIPs](https://eips.ethereum.org/all)
+
+## Token.sol
+
+This contract showcases ERC20 by allowing you test using one for yourself!
+
+### resources
+
+- [Official EIP](https://eips.ethereum.org/EIPS/eip-20)
+- []()
+- []()
+- []()
+
+## Ownable.sol
+
+This contract showcases EIP by allowing you test using for yourself!
+
+### resources
+
+- []()
+- []()
+- []()
+- []()
 
 ## Signature.sol
 
@@ -33,6 +56,28 @@ This contract showcases EIPs 191 and 712 by allowing you test using ECDSA recove
 - [SMP written tutorial](https://solidity-by-example.org/signature/)
 - [Medium article](https://medium.com/metamask/eip712-is-coming-what-to-expect-and-how-to-use-it-bb92fd1a7a26)
 
+## NonFungibleToken.sol
+
+This contract showcases ERC721 by allowing you test using one for yourself!
+
+### resources
+
+- [Official EIP](https://eips.ethereum.org/EIPS/eip-721)
+- []()
+- []()
+- []()
+
+## NewContractPrefix.sol
+
+This contract showcases EIP 3541 by allowing you test using it for yourself!
+
+### resources
+
+- [Official EIP](https://eips.ethereum.org/EIPS/eip-3541)
+- []()
+- []()
+- []()
+
 ## Flash.sol
 
 This contract showcases EIP 3156 by allowing you test using flashloans for yourself!
@@ -44,6 +89,17 @@ This contract showcases EIP 3156 by allowing you test using flashloans for yours
 - []()
 - []()
 
+## Vault.sol
+
+This contract showcases ERC4626 by allowing you test using one for yourself!
+
+### resources
+
+- [Official EIP](https://eips.ethereum.org/EIPS/eip-4626)
+- []()
+- []()
+- []()
+
 ## .sol
 
 This contract showcases EIP by allowing you test using for yourself!
@@ -55,13 +111,13 @@ This contract showcases EIP by allowing you test using for yourself!
 - []()
 - []()
 
-## .sol
+## Merkle.sol
 
-This contract showcases EIP by allowing you test using for yourself!
+This contract showcases Merkle proofs by allowing you test using one for yourself!
 
 ### resources
 
-- []()
+- [Solidity-by-example](https://solidity-by-example.org/app/merkle-tree/)
 - []()
 - []()
 - []()
