@@ -21,4 +21,4 @@ In order corresponding to the src directory:
 
 ## Signature.sol
 
-This contract showcases EIP 712 and lets you play with
+This contract showcases EIPs 191 and 712 by allowing you test using ECDSA recover for yourself!
