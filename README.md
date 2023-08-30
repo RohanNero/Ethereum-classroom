@@ -56,6 +56,39 @@ This contract showcases EIPs 191 and 712 by allowing you test using ECDSA recove
 - [SMP written tutorial](https://solidity-by-example.org/signature/)
 - [Medium article](https://medium.com/metamask/eip712-is-coming-what-to-expect-and-how-to-use-it-bb92fd1a7a26)
 
+## Encoding.sol
+
+This contract showcases abi encoding by allowing you test using it for yourself!
+
+### resources
+
+- []()
+- []()
+- []()
+- []()
+
+## Decoding.sol
+
+This contract showcases abi decoding by allowing you test using it for yourself!
+
+### resources
+
+- []()
+- []()
+- []()
+- []()
+
+## FatDragon.sol
+
+This contract showcases EIP 170 and 607 by allowing you test it out for yourself!
+
+### resources
+
+- []()
+- []()
+- []()
+- []()
+
 ## NonFungibleToken.sol
 
 This contract showcases ERC721 by allowing you test using one for yourself!
@@ -63,6 +96,28 @@ This contract showcases ERC721 by allowing you test using one for yourself!
 ### resources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-721)
+- []()
+- []()
+- []()
+
+## Proxy.sol
+
+This contract showcases EIP by allowing you test using for yourself!
+
+### resources
+
+- []()
+- []()
+- []()
+- []()
+
+## ProxyStorage.sol
+
+This contract showcases EIP by allowing you test using for yourself!
+
+### resources
+
+- []()
 - []()
 - []()
 - []()
@@ -100,9 +155,9 @@ This contract showcases ERC4626 by allowing you test using one for yourself!
 - []()
 - []()
 
-## .sol
+## SelfDestruct.sol
 
-This contract showcases EIP by allowing you test using for yourself!
+This contract showcases EIP 6049 by allowing you test using it for yourself!
 
 ### resources
 
@@ -118,7 +173,7 @@ This contract showcases Merkle proofs by allowing you test using one for yoursel
 ### resources
 
 - [Solidity-by-example](https://solidity-by-example.org/app/merkle-tree/)
-- []()
+- [State Trie](https://www.youtube.com/watch?v=OxofT39TJgg)
 - []()
 - []()
 
