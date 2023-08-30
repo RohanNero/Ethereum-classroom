@@ -18,7 +18,61 @@ In order corresponding to the src directory:
 1. `NewContractPrefix` showcases EIP 3541
 1. `Vault.sol` showcases ERC-4626
 1. `SelfDestruct` showcases EIP 6049
+1. `Flash.sol` showcases flashloans EIP 3156
+
+[List of EIPs](https://eips.ethereum.org/all)
 
 ## Signature.sol
 
 This contract showcases EIPs 191 and 712 by allowing you test using ECDSA recover for yourself!
+
+### Signature resources
+
+- [Foundry book guide](https://book.getfoundry.sh/tutorials/testing-eip712?highlight=vm.addr#bundled-example)
+- [SMP video tutorial](https://www.youtube.com/watch?v=cs5IeYqviSQ)
+- [SMP written tutorial](https://solidity-by-example.org/signature/)
+- [Medium article](https://medium.com/metamask/eip712-is-coming-what-to-expect-and-how-to-use-it-bb92fd1a7a26)
+
+## Flash.sol
+
+This contract showcases EIP 3156 by allowing you test using flashloans for yourself!
+
+### Flashloan resources
+
+- []()
+- []()
+- []()
+- []()
+
+## .sol
+
+This contract showcases EIP by allowing you test using for yourself!
+
+### resources
+
+- []()
+- []()
+- []()
+- []()
+
+## .sol
+
+This contract showcases EIP by allowing you test using for yourself!
+
+### resources
+
+- []()
+- []()
+- []()
+- []()
+
+## .sol
+
+This contract showcases EIP by allowing you test using for yourself!
+
+### resources
+
+- []()
+- []()
+- []()
+- []()
