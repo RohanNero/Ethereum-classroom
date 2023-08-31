@@ -137,7 +137,7 @@ This contract showcases EIP 3541 by allowing you test using it for yourself!
 
 This contract showcases EIP 3156 by allowing you test using flashloans for yourself!
 
-### Flashloan resources
+### Flashloan Resources
 
 - []()
 - []()
@@ -148,7 +148,7 @@ This contract showcases EIP 3156 by allowing you test using flashloans for yours
 
 This contract showcases ERC4626 by allowing you test using one for yourself!
 
-#### Vault Rsources
+#### Vault Resources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-4626)
 - []()
@@ -181,7 +181,7 @@ This contract showcases Merkle proofs by allowing you test using one for yoursel
 
 This contract showcases EIP by allowing you test using for yourself!
 
-#### resources
+#### Resources
 
 - []()
 - []()
