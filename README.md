@@ -27,7 +27,7 @@ In order corresponding to the src directory:
 
 This contract showcases ERC20 by allowing you test using one for yourself!
 
-### resources
+#### resources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-20)
 - []()
@@ -38,7 +38,7 @@ This contract showcases ERC20 by allowing you test using one for yourself!
 
 This contract showcases EIP by allowing you test using for yourself!
 
-### resources
+#### resources
 
 - []()
 - []()
@@ -60,7 +60,7 @@ This contract showcases EIPs 191 and 712 by allowing you test using ECDSA recove
 
 This contract showcases abi encoding by allowing you test using it for yourself!
 
-### resources
+#### resources
 
 - []()
 - []()
@@ -71,7 +71,7 @@ This contract showcases abi encoding by allowing you test using it for yourself!
 
 This contract showcases abi decoding by allowing you test using it for yourself!
 
-### resources
+#### resources
 
 - []()
 - []()
@@ -82,7 +82,7 @@ This contract showcases abi decoding by allowing you test using it for yourself!
 
 This contract showcases EIP 170 and 607 by allowing you test it out for yourself!
 
-### resources
+#### resources
 
 - []()
 - []()
@@ -93,7 +93,7 @@ This contract showcases EIP 170 and 607 by allowing you test it out for yourself
 
 This contract showcases ERC721 by allowing you test using one for yourself!
 
-### resources
+#### resources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-721)
 - []()
@@ -104,7 +104,7 @@ This contract showcases ERC721 by allowing you test using one for yourself!
 
 This contract showcases EIP by allowing you test using for yourself!
 
-### resources
+#### resources
 
 - []()
 - []()
@@ -115,7 +115,7 @@ This contract showcases EIP by allowing you test using for yourself!
 
 This contract showcases EIP by allowing you test using for yourself!
 
-### resources
+#### resources
 
 - []()
 - []()
@@ -126,7 +126,7 @@ This contract showcases EIP by allowing you test using for yourself!
 
 This contract showcases EIP 3541 by allowing you test using it for yourself!
 
-### resources
+#### resources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-3541)
 - []()
@@ -148,7 +148,7 @@ This contract showcases EIP 3156 by allowing you test using flashloans for yours
 
 This contract showcases ERC4626 by allowing you test using one for yourself!
 
-### resources
+#### resources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-4626)
 - []()
@@ -159,7 +159,7 @@ This contract showcases ERC4626 by allowing you test using one for yourself!
 
 This contract showcases EIP 6049 by allowing you test using it for yourself!
 
-### resources
+#### resources
 
 - []()
 - []()
@@ -170,18 +170,18 @@ This contract showcases EIP 6049 by allowing you test using it for yourself!
 
 This contract showcases Merkle proofs by allowing you test using one for yourself!
 
-### resources
+#### resources
 
 - [Solidity-by-example](https://solidity-by-example.org/app/merkle-tree/)
 - [State Trie](https://www.youtube.com/watch?v=OxofT39TJgg)
-- []()
+- [Ethereum Architecture Article](https://medium.com/@eiki1212/ethereum-state-trie-architecture-explained-a30237009d4e#:~:text=Trie%2C%20it%20is%20also%20called,data%20structure%20of%20data%20storage.)
 - []()
 
 ## .sol
 
 This contract showcases EIP by allowing you test using for yourself!
 
-### resources
+#### resources
 
 - []()
 - []()
