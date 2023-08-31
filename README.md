@@ -16,7 +16,7 @@ In order corresponding to the src directory:
 1. `Proxy.sol` showcases EIP 1167
 1. `ProxyStorage.sol` showcases EIP 1967
 1. `NewContractPrefix` showcases EIP 3541
-1. `Flash.sol` showcases flashloans EIP 3156
+1. `Flashloan.sol` showcases flashloans EIP 3156
 1. `Vault.sol` showcases ERC-4626
 1. `SelfDestruct` showcases EIP 6049
 1. `Merkle.sol` showcases a Merkle proof
@@ -82,7 +82,7 @@ This contract showcases abi decoding by allowing you test using it for yourself!
 
 This contract showcases EIP 170 and 607 by allowing you test it out for yourself!
 
-#### resources
+#### FatDragon Resources
 
 - []()
 - []()
@@ -93,7 +93,7 @@ This contract showcases EIP 170 and 607 by allowing you test it out for yourself
 
 This contract showcases ERC721 by allowing you test using one for yourself!
 
-#### resources
+#### NonFungibleToken Resources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-721)
 - []()
@@ -104,7 +104,7 @@ This contract showcases ERC721 by allowing you test using one for yourself!
 
 This contract showcases EIP by allowing you test using for yourself!
 
-#### resources
+#### Proxy Resources
 
 - []()
 - []()
@@ -115,7 +115,7 @@ This contract showcases EIP by allowing you test using for yourself!
 
 This contract showcases EIP by allowing you test using for yourself!
 
-#### resources
+#### ProxyStorage Resources
 
 - []()
 - []()
@@ -126,14 +126,14 @@ This contract showcases EIP by allowing you test using for yourself!
 
 This contract showcases EIP 3541 by allowing you test using it for yourself!
 
-#### resources
+#### NewContractPrefix Resources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-3541)
 - []()
 - []()
 - []()
 
-## Flash.sol
+## Flashloan.sol
 
 This contract showcases EIP 3156 by allowing you test using flashloans for yourself!
 
@@ -148,7 +148,7 @@ This contract showcases EIP 3156 by allowing you test using flashloans for yours
 
 This contract showcases ERC4626 by allowing you test using one for yourself!
 
-#### resources
+#### Vault Rsources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-4626)
 - []()
@@ -159,7 +159,7 @@ This contract showcases ERC4626 by allowing you test using one for yourself!
 
 This contract showcases EIP 6049 by allowing you test using it for yourself!
 
-#### resources
+#### SelfDestruct Resources
 
 - []()
 - []()
@@ -170,7 +170,7 @@ This contract showcases EIP 6049 by allowing you test using it for yourself!
 
 This contract showcases Merkle proofs by allowing you test using one for yourself!
 
-#### resources
+#### Merkle Resources
 
 - [Solidity-by-example](https://solidity-by-example.org/app/merkle-tree/)
 - [State Trie](https://www.youtube.com/watch?v=OxofT39TJgg)
