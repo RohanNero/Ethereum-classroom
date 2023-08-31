@@ -49,7 +49,7 @@ This contract showcases EIP by allowing you test using for yourself!
 
 This contract showcases EIPs 191 and 712 by allowing you test using ECDSA recover for yourself!
 
-### Signature resources
+#### Signature resources
 
 - [Foundry book guide](https://book.getfoundry.sh/tutorials/testing-eip712?highlight=vm.addr#bundled-example)
 - [SMP video tutorial](https://www.youtube.com/watch?v=cs5IeYqviSQ)
