@@ -27,7 +27,7 @@ In order corresponding to the src directory:
 
 This contract showcases ERC20 by allowing you test using one for yourself!
 
-#### resources
+#### Token Resources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-20)
 - []()
@@ -38,7 +38,7 @@ This contract showcases ERC20 by allowing you test using one for yourself!
 
 This contract showcases EIP by allowing you test using for yourself!
 
-#### resources
+#### Ownable Resources
 
 - []()
 - []()
@@ -49,7 +49,7 @@ This contract showcases EIP by allowing you test using for yourself!
 
 This contract showcases EIPs 191 and 712 by allowing you test using ECDSA recover for yourself!
 
-#### Signature resources
+#### Signature Resources
 
 - [Foundry book guide](https://book.getfoundry.sh/tutorials/testing-eip712?highlight=vm.addr#bundled-example)
 - [SMP video tutorial](https://www.youtube.com/watch?v=cs5IeYqviSQ)
@@ -60,7 +60,7 @@ This contract showcases EIPs 191 and 712 by allowing you test using ECDSA recove
 
 This contract showcases abi encoding by allowing you test using it for yourself!
 
-#### resources
+#### Encoding Resources
 
 - []()
 - []()
@@ -71,7 +71,7 @@ This contract showcases abi encoding by allowing you test using it for yourself!
 
 This contract showcases abi decoding by allowing you test using it for yourself!
 
-#### resources
+#### Decoding Resources
 
 - []()
 - []()
