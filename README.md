@@ -1,6 +1,9 @@
 # Foundry Classroom
 
-This repo consists of a handful of simple smart contracts that each showcase a different Solidity/Ethereum concept
+This repo consists of a handful of directories containing smart contracts that each showcase a different Solidity/Ethereum concept.
+One concept may contain multiple smart contracts, and some special smart contracts prefixed `Retro` are based upon the original proposal/ideas for the standards and may not reflect the final EIP.
+
+With that said, dive in and explore the world of **Ethereum**!
 
 ## Content overview
 
