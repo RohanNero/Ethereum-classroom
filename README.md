@@ -30,7 +30,7 @@ This contract showcases ERC20 by allowing you test using one for yourself!
 #### Token Resources
 
 - [Official EIP](https://eips.ethereum.org/EIPS/eip-20)
-- []()
+- [Original Proposal](https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs/499c882f3ec123537fc2fccd57eaa29e6032fe4a)
 - []()
 - []()
 
