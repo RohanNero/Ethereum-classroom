@@ -26,9 +26,17 @@ In order corresponding to the src directory:
 
 [List of EIPs](https://eips.ethereum.org/all)
 
-## Token.sol
+## Token
 
-This contract showcases ERC20 by allowing you test using one for yourself!
+This folder showcases ERC20 by allowing you test using some for yourself!
+
+### Token.sol
+
+The main contract in the directory is `Token.sol`, it follows the EIP-20 guidelines perfectly!
+
+### RetroToken.sol
+
+This `Retro` contract is based upon Vitalik's first proposal for standardized currencies!
 
 #### Token Resources
 
