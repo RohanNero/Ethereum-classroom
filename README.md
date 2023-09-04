@@ -47,7 +47,7 @@ This `Retro` contract is based upon Vitalik's first proposal for standardized cu
 
 ## Ownable.sol
 
-This contract showcases EIP by allowing you test using for yourself!
+This contract showcases EIP 173 by allowing you to test using it for yourself!
 
 #### Ownable Resources
 
