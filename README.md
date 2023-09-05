@@ -5,6 +5,9 @@ One concept may contain multiple smart contracts, and some special smart contrac
 
 With that said, dive in and explore the world of **Ethereum**!
 
+![image](https://github.com/RohanNero/foundry-classroom/assets/100052099/e352be70-bcee-4296-9fb9-ecb382acb6b5)
+
+
 ## Content overview
 
 In order corresponding to the src directory:
