@@ -1,4 +1,4 @@
-# Foundry Classroom
+# Ethereum Classroom
 
 This repo consists of a handful of directories containing smart contracts that each showcase a different Solidity/Ethereum concept.
 One concept may contain multiple smart contracts, and some special smart contracts prefixed `Retro` are based upon the original proposal/ideas for the standards and may not reflect the final EIP.
@@ -7,11 +7,11 @@ With that said, dive in and explore the world of **Ethereum**!
 
 ![image](https://github.com/RohanNero/foundry-classroom/assets/100052099/e352be70-bcee-4296-9fb9-ecb382acb6b5)
 
-
 ## Content overview
 
 In order corresponding to the src directory:
 
+1. `Suicide.sol` showcases EIP 6
 1. `Token.sol` showcases ERC-20
 1. `Ownable.sol` showcases EIP 173
 1. `Signature.sol` showases EIP 191 and EIP 712
