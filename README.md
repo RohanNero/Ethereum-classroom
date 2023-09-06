@@ -29,6 +29,14 @@ In order corresponding to the src directory:
 
 [List of EIPs](https://eips.ethereum.org/all)
 
+## Suicide.sol
+
+This contract showcases EIP 6 by allowing you to test using it for yourself!
+
+#### Suicide Resources
+
+- [Official EIP 6](https://eips.ethereum.org/EIPS/eip-6)
+
 ## Token
 
 This folder showcases ERC20 by allowing you test using some for yourself!
