@@ -33,7 +33,7 @@ In order corresponding to the src directory:
 
 This contract showcases EIP 6 by allowing you to test using it for yourself!
 
-The `Suicide` opcode was removed early on in Ethereum's history for obvious reasons, you can test the removal in action for yourself by changing the `pragma solidity 0.4.26;` line to `pragma solidity 0.5.0;`
+The `Suicide` opcode was removed early on in Ethereum's history for obvious reasons, you can test the removal in action for yourself by changing the `pragma solidity 0.4.26;` line to `pragma solidity 0.5.0;`, and then running `forge build`.
 
 #### Suicide Resources
 
