@@ -25,6 +25,7 @@ In order corresponding to the src directory:
 1. `Flashloan.sol` showcases flashloans EIP 3156
 1. `Vault.sol` showcases ERC-4626
 1. `SelfDestruct` showcases EIP 6049
+1. `NFTMarket.sol` showcases ERC-6105
 1. `Merkle.sol` showcases a Merkle proof
 
 [List of EIPs](https://eips.ethereum.org/all)
@@ -186,6 +187,17 @@ This contract showcases EIP 6049 by allowing you test using it for yourself!
 #### SelfDestruct Resources
 
 - []()
+- []()
+- []()
+- []()
+
+## NFTMarket.sol
+
+This contract showcases EIP 6105 by allowing you test using it for yourself!
+
+#### NFTMarket Resources
+
+- [Official EIP](https://eips.ethereum.org/EIPS/eip-6105)
 - []()
 - []()
 - []()
