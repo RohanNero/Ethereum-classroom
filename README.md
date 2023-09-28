@@ -21,6 +21,7 @@ In order corresponding to the src directory:
 1. `NonFungibleToken.sol` showcases ERC-721
 1. `Proxy.sol` showcases EIP 1167
 1. `ProxyStorage.sol` showcases EIP 1967
+1. `RoyaltyStandard.sol` showcases EIP 2981
 1. `NewContractPrefix` showcases EIP 3541
 1. `Flashloan.sol` showcases flashloans EIP 3156
 1. `Vault.sol` showcases ERC-4626
@@ -141,6 +142,17 @@ This contract showcases EIP by allowing you test using for yourself!
 This contract showcases EIP by allowing you test using for yourself!
 
 #### ProxyStorage Resources
+
+- []()
+- []()
+- []()
+- []()
+
+## RoyaltyStandard.sol
+
+This contract showcases EIP 2981 by allowing you test using for yourself!
+
+#### RoyaltyStandard Resources
 
 - []()
 - []()

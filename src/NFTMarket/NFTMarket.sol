@@ -1,5 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.8;
+
+/// Eventually replace these open zeppelin imports with my own contract imports 
+/// Meaning you will need to add support for 2981 and Reentrancy Guard
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/common/ERC2981.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
